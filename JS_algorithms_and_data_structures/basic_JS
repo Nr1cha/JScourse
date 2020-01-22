@@ -1,0 +1,23 @@
+console.log();
+//lesson. Comment Your JavaScript Code
+//one line comment
+
+/* multi
+line
+comment
+*/
+//-----------------
+
+//lesson. Declare JavaScript Variables
+//Example 
+var ourName;
+//declare myName below this line
+var myName;
+//-----------------
+
+//lesson. Initializing Variables with the Assignment Operator
+// this is assigning things to variables. 
+var a = 9;
+//------------------
+
+//lesson. Understanding Uninitialized Variables
